@@ -1,0 +1,14 @@
+monai
+nibabel
+SimpleITK
+einops
+tqdm
+numpy
+pandas
+scikit-learn
+scikit-image
+matplotlib
+plotly
+PyYAML
+tensorboard
+streamlit
